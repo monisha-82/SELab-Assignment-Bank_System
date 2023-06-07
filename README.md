@@ -1,1 +1,9 @@
-#Software Engineering Lab Assignment
+Software Engineering Lab Assignment
+
+Group D
+
+1. Ashwani Kumar Pandita
+2. Chappu Fayouz
+3. Monisha Choudhury
+4. Mayank Verma
+5. Koushik Karmakar
