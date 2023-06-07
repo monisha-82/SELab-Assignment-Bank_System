@@ -1,6 +1,6 @@
 # Software Engineering Lab Assignment
 
-Group 4 (A1)
+# Group 4 (A1)
 
 Topic: Banking System
 
